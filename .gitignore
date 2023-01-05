@@ -1,0 +1,50 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Agent & AI tool configurations
+.claude/
+.cursor/
+.aider*
+CLAUDE.md
+
+# Python & ML
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+ml-service/reports/*.png
+!ml-service/reports/.gitkeep
+
+# Backend / Java / Maven
+backend/target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Frontend / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+
+# Environment files
+.env
+!.env.example
+
+# Automation scripts
+generate_history.py
