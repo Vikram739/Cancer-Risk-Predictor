@@ -3,3 +3,4 @@
 2023-01-06T15:12:54+0530 - fix edge case in null assessment feature value
 2023-01-06T15:45:00+0530 - fix table cell alignment on smaller screens
 2023-01-06T16:41:37+0530 - fix table cell alignment on smaller screens
+2023-01-06T17:08:25+0530 - fix patient dob formatting issue
