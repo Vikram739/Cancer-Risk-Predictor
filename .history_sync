@@ -2,3 +2,4 @@
 2023-01-05T16:03:30+0530 - update logging format for inference calls
 2023-01-06T15:12:54+0530 - fix edge case in null assessment feature value
 2023-01-06T15:45:00+0530 - fix table cell alignment on smaller screens
+2023-01-06T16:41:37+0530 - fix table cell alignment on smaller screens
