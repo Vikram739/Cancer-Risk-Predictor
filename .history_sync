@@ -13,3 +13,4 @@
 2023-01-08T14:31:33+0530 - add unit test case for edge risk probabilities
 2023-01-08T14:52:41+0530 - fix table cell alignment on smaller screens
 2023-01-08T15:09:19+0530 - fix test assertion for pagination limit
+2023-01-08T15:42:33+0530 - add unit test case for edge risk probabilities
