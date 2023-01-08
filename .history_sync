@@ -15,3 +15,4 @@
 2023-01-08T15:09:19+0530 - fix test assertion for pagination limit
 2023-01-08T15:42:33+0530 - add unit test case for edge risk probabilities
 2023-01-08T16:28:15+0530 - fix patient dob formatting issue
+2023-01-08T17:12:26+0530 - update styling and card padding
