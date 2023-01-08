@@ -11,3 +11,4 @@
 2023-01-08T12:34:20+0530 - pin scikit-learn 1.2.2 and core ml dependencies
 2023-01-08T14:06:15+0530 - tweak margin and flexbox alignment on cards
 2023-01-08T14:31:33+0530 - add unit test case for edge risk probabilities
+2023-01-08T14:52:41+0530 - fix table cell alignment on smaller screens
