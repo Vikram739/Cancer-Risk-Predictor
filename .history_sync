@@ -8,3 +8,4 @@
 2023-01-06T18:27:09+0530 - reformat table headers and tooltip text
 2023-01-07T15:35:25+0530 - fix test assertion for pagination limit
 2023-01-07T16:04:55+0530 - update logging format for inference calls
+2023-01-08T12:34:20+0530 - pin scikit-learn 1.2.2 and core ml dependencies
