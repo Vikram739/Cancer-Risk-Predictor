@@ -16,3 +16,4 @@
 2023-01-08T15:42:33+0530 - add unit test case for edge risk probabilities
 2023-01-08T16:28:15+0530 - fix patient dob formatting issue
 2023-01-08T17:12:26+0530 - update styling and card padding
+2023-01-11T16:40:42+0530 - handle blank search query gracefully in patient service
