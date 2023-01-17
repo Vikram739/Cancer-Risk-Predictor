@@ -42,3 +42,4 @@
 2023-01-17T18:09:22+0530 - add docstrings to inference functions
 2023-01-17T18:44:37+0530 - add boundary checks for probability scores
 2023-01-17T19:20:56+0530 - refactor mapper logic for optional audit fields
+2023-01-17T19:42:35+0530 - update logging format for inference calls
