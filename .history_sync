@@ -37,3 +37,4 @@
 2023-01-14T14:32:12+0530 - fix patient dob formatting issue
 2023-01-17T14:17:30+0530 - add exploratory analysis and correlation plots
 2023-01-17T15:46:58+0530 - optimize component re-rendering on filter change
+2023-01-17T16:45:04+0530 - refactor mapper logic for optional audit fields
