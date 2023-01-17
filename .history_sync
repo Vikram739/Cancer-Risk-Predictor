@@ -39,3 +39,4 @@
 2023-01-17T15:46:58+0530 - optimize component re-rendering on filter change
 2023-01-17T16:45:04+0530 - refactor mapper logic for optional audit fields
 2023-01-17T17:35:45+0530 - add docstrings to inference functions
+2023-01-17T18:09:22+0530 - add docstrings to inference functions
