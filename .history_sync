@@ -52,3 +52,4 @@
 2023-01-27T17:00:34+0530 - update logging format for inference calls
 2023-01-27T17:43:18+0530 - clean up unused imports and types
 2023-01-28T16:26:34+0530 - generate feature distributions and eda artifacts
+2023-01-29T12:40:08+0530 - improve query efficiency for patient list search
