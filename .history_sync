@@ -59,3 +59,4 @@
 2023-02-03T18:19:30+0530 - update test fixtures with realistic data
 2023-02-03T19:04:43+0530 - optimize component re-rendering on filter change
 2023-02-03T19:47:58+0530 - refactor error handling in request payload
+2023-02-03T20:09:21+0530 - standardize response json error bodies
