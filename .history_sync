@@ -60,3 +60,4 @@
 2023-02-03T19:04:43+0530 - optimize component re-rendering on filter change
 2023-02-03T19:47:58+0530 - refactor error handling in request payload
 2023-02-03T20:09:21+0530 - standardize response json error bodies
+2023-02-03T21:07:59+0530 - refactor error handling in request payload
