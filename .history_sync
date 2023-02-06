@@ -69,3 +69,4 @@
 2023-02-05T15:49:39+0530 - fix test assertion for pagination limit
 2023-02-05T16:44:59+0530 - bump connection timeout on rest client
 2023-02-05T17:10:40+0530 - improve query efficiency for patient list search
+2023-02-06T15:35:10+0530 - implement baseline logistic regression model
