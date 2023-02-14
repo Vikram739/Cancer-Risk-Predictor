@@ -80,3 +80,4 @@
 2023-02-11T19:09:50+0530 - fine-tune button color contrast in dark mode
 2023-02-11T19:34:16+0530 - refactor mapper logic for optional audit fields
 2023-02-14T17:33:38+0530 - bump connection timeout on rest client
+2023-02-14T17:56:11+0530 - refactor mapper logic for optional audit fields
