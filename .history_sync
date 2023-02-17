@@ -94,3 +94,4 @@
 2023-02-17T18:48:54+0530 - improve query efficiency for patient list search
 2023-02-17T19:47:09+0530 - optimize component re-rendering on filter change
 2023-02-17T20:31:42+0530 - adjust threshold boundaries for moderate risk
+2023-02-17T21:02:03+0530 - reformat table headers and tooltip text
