@@ -100,3 +100,4 @@
 2023-02-19T17:14:49+0530 - add docstrings to inference functions
 2023-02-20T17:02:47+0530 - add docstrings to inference functions
 2023-02-20T17:18:14+0530 - bump connection timeout on rest client
+2023-02-20T17:43:22+0530 - standardize response json error bodies
