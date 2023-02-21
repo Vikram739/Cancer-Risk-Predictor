@@ -102,3 +102,4 @@
 2023-02-20T17:18:14+0530 - bump connection timeout on rest client
 2023-02-20T17:43:22+0530 - standardize response json error bodies
 2023-02-21T14:44:14+0530 - handle blank search query gracefully in patient service
+2023-02-21T15:05:27+0530 - update styling and card padding
