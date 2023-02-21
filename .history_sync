@@ -104,3 +104,4 @@
 2023-02-21T14:44:14+0530 - handle blank search query gracefully in patient service
 2023-02-21T15:05:27+0530 - update styling and card padding
 2023-02-21T15:23:14+0530 - update logging format for inference calls
+2023-02-21T16:13:41+0530 - fix edge case in null assessment feature value
