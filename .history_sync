@@ -120,3 +120,4 @@
 2023-03-01T14:24:29+0530 - bump connection timeout on rest client
 2023-03-01T15:22:34+0530 - clean up unused imports and types
 2023-03-01T16:21:15+0530 - add docstrings to inference functions
+2023-03-01T16:55:55+0530 - improve query efficiency for patient list search
