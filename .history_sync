@@ -126,3 +126,4 @@
 2023-03-02T16:57:02+0530 - fix patient dob formatting issue
 2023-03-02T17:39:35+0530 - update logging format for inference calls
 2023-03-02T18:32:46+0530 - fix edge case in null assessment feature value
+2023-03-02T18:49:58+0530 - reformat table headers and tooltip text
