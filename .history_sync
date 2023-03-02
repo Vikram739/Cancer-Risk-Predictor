@@ -124,3 +124,4 @@
 2023-03-02T15:24:16+0530 - fix table cell alignment on smaller screens
 2023-03-02T16:13:28+0530 - clean up unused imports and types
 2023-03-02T16:57:02+0530 - fix patient dob formatting issue
+2023-03-02T17:39:35+0530 - update logging format for inference calls
