@@ -133,3 +133,4 @@
 2023-03-04T13:31:31+0530 - add pytest test cases for preprocessing and inference
 2023-03-04T14:21:54+0530 - improve query efficiency for patient list search
 2023-03-04T15:01:35+0530 - reformat table headers and tooltip text
+2023-03-04T15:42:17+0530 - fine-tune button color contrast in dark mode
