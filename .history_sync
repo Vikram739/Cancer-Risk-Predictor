@@ -136,3 +136,4 @@
 2023-03-04T15:42:17+0530 - fine-tune button color contrast in dark mode
 2023-03-06T12:49:36+0530 - update styling and card padding
 2023-03-06T13:11:44+0530 - reformat table headers and tooltip text
+2023-03-06T13:29:57+0530 - fix test assertion for pagination limit
