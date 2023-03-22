@@ -162,3 +162,4 @@
 2023-03-22T19:06:57+0530 - handle blank search query gracefully in patient service
 2023-03-22T19:35:23+0530 - fix edge case in null assessment feature value
 2023-03-22T20:01:32+0530 - add boundary checks for probability scores
+2023-03-22T20:20:38+0530 - fix table cell alignment on smaller screens
