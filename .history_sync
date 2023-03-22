@@ -157,3 +157,4 @@
 2023-03-21T15:28:06+0530 - tweak margin and flexbox alignment on cards
 2023-03-21T15:50:15+0530 - update logging format for inference calls
 2023-03-22T17:05:02+0530 - fine-tune button color contrast in dark mode
+2023-03-22T17:31:13+0530 - bump connection timeout on rest client
