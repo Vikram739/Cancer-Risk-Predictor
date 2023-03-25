@@ -170,3 +170,4 @@
 2023-03-25T18:23:33+0530 - tweak margin and flexbox alignment on cards
 2023-03-25T19:19:45+0530 - handle blank search query gracefully in patient service
 2023-03-25T20:17:10+0530 - fix test assertion for pagination limit
+2023-03-25T20:53:26+0530 - fine-tune button color contrast in dark mode
