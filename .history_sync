@@ -164,3 +164,4 @@
 2023-03-22T20:01:32+0530 - add boundary checks for probability scores
 2023-03-22T20:20:38+0530 - fix table cell alignment on smaller screens
 2023-03-24T15:19:12+0530 - improve query efficiency for patient list search
+2023-03-25T16:08:38+0530 - initialize spring boot 3 maven project with dependencies
