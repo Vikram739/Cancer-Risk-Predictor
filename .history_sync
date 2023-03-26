@@ -174,3 +174,4 @@
 2023-03-25T21:24:44+0530 - update styling and card padding
 2023-03-25T21:41:08+0530 - update styling and card padding
 2023-03-26T14:46:11+0530 - clean up unused imports and types
+2023-03-26T15:03:32+0530 - optimize component re-rendering on filter change
