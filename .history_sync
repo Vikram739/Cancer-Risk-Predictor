@@ -184,3 +184,4 @@
 2023-03-31T14:01:04+0530 - bump connection timeout on rest client
 2023-03-31T14:35:47+0530 - tweak margin and flexbox alignment on cards
 2023-03-31T15:08:53+0530 - fix table cell alignment on smaller screens
+2023-03-31T15:57:05+0530 - add unit test case for edge risk probabilities
