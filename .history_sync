@@ -185,3 +185,4 @@
 2023-03-31T14:35:47+0530 - tweak margin and flexbox alignment on cards
 2023-03-31T15:08:53+0530 - fix table cell alignment on smaller screens
 2023-03-31T15:57:05+0530 - add unit test case for edge risk probabilities
+2023-03-31T16:15:11+0530 - add unit test case for edge risk probabilities
