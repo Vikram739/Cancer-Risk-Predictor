@@ -186,3 +186,4 @@
 2023-03-31T15:08:53+0530 - fix table cell alignment on smaller screens
 2023-03-31T15:57:05+0530 - add unit test case for edge risk probabilities
 2023-03-31T16:15:11+0530 - add unit test case for edge risk probabilities
+2023-04-01T14:07:03+0530 - update logging format for inference calls
