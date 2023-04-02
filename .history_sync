@@ -193,3 +193,4 @@
 2023-04-02T15:46:03+0530 - add docstrings to inference functions
 2023-04-02T16:03:16+0530 - update styling and card padding
 2023-04-02T16:48:48+0530 - optimize component re-rendering on filter change
+2023-04-02T17:39:00+0530 - fix test assertion for pagination limit
