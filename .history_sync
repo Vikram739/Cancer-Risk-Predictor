@@ -210,3 +210,4 @@
 2023-04-06T13:32:48+0530 - update logging format for inference calls
 2023-04-06T13:53:17+0530 - improve query efficiency for patient list search
 2023-04-06T14:27:29+0530 - tweak margin and flexbox alignment on cards
+2023-04-07T12:07:31+0530 - configure spring security stateless jwt authentication
