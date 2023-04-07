@@ -213,3 +213,4 @@
 2023-04-07T12:07:31+0530 - configure spring security stateless jwt authentication
 2023-04-07T13:23:42+0530 - add docstrings to inference functions
 2023-04-07T13:47:55+0530 - fix test assertion for pagination limit
+2023-04-07T14:35:32+0530 - improve query efficiency for patient list search
