@@ -218,3 +218,4 @@
 2023-04-07T15:36:04+0530 - update logging format for inference calls
 2023-04-11T13:38:59+0530 - update logging format for inference calls
 2023-04-11T13:54:16+0530 - fix edge case in null assessment feature value
+2023-04-11T14:47:06+0530 - add docstrings to inference functions
