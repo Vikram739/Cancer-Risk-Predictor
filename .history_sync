@@ -224,3 +224,4 @@
 2023-04-12T16:05:10+0530 - update logging format for inference calls
 2023-04-12T16:28:27+0530 - fix patient dob formatting issue
 2023-04-13T14:16:28+0530 - create patient assessment and audit log jpa entities
+2023-04-13T15:04:22+0530 - add boundary checks for probability scores
