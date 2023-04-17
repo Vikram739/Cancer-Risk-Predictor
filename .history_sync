@@ -227,3 +227,4 @@
 2023-04-13T15:04:22+0530 - add boundary checks for probability scores
 2023-04-16T13:15:21+0530 - adjust threshold boundaries for moderate risk
 2023-04-16T13:33:38+0530 - add docstrings to inference functions
+2023-04-17T12:47:18+0530 - fix table cell alignment on smaller screens
