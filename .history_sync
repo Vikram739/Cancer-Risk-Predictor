@@ -228,3 +228,4 @@
 2023-04-16T13:15:21+0530 - adjust threshold boundaries for moderate risk
 2023-04-16T13:33:38+0530 - add docstrings to inference functions
 2023-04-17T12:47:18+0530 - fix table cell alignment on smaller screens
+2023-04-17T13:46:43+0530 - clean up unused imports and types
