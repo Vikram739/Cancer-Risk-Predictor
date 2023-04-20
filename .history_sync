@@ -230,3 +230,4 @@
 2023-04-17T12:47:18+0530 - fix table cell alignment on smaller screens
 2023-04-17T13:46:43+0530 - clean up unused imports and types
 2023-04-20T13:57:42+0530 - fix test assertion for pagination limit
+2023-04-20T14:38:17+0530 - handle blank search query gracefully in patient service
