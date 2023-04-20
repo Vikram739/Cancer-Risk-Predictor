@@ -231,3 +231,4 @@
 2023-04-17T13:46:43+0530 - clean up unused imports and types
 2023-04-20T13:57:42+0530 - fix test assertion for pagination limit
 2023-04-20T14:38:17+0530 - handle blank search query gracefully in patient service
+2023-04-20T15:06:23+0530 - refactor mapper logic for optional audit fields
