@@ -234,3 +234,4 @@
 2023-04-20T15:06:23+0530 - refactor mapper logic for optional audit fields
 2023-04-20T15:28:00+0530 - improve query efficiency for patient list search
 2023-04-20T16:06:50+0530 - refactor error handling in request payload
+2023-04-20T16:50:04+0530 - update logging format for inference calls
