@@ -236,3 +236,4 @@
 2023-04-20T16:06:50+0530 - refactor error handling in request payload
 2023-04-20T16:50:04+0530 - update logging format for inference calls
 2023-04-20T17:32:39+0530 - bump connection timeout on rest client
+2023-04-21T16:25:41+0530 - improve query efficiency for patient list search
