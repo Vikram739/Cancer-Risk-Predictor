@@ -238,3 +238,4 @@
 2023-04-20T17:32:39+0530 - bump connection timeout on rest client
 2023-04-21T16:25:41+0530 - improve query efficiency for patient list search
 2023-04-21T16:53:57+0530 - update test fixtures with realistic data
+2023-04-21T17:26:47+0530 - adjust threshold boundaries for moderate risk
