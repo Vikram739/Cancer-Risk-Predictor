@@ -240,3 +240,4 @@
 2023-04-21T16:53:57+0530 - update test fixtures with realistic data
 2023-04-21T17:26:47+0530 - adjust threshold boundaries for moderate risk
 2023-04-22T15:05:26+0530 - reformat table headers and tooltip text
+2023-04-22T15:33:31+0530 - improve query efficiency for patient list search
