@@ -253,3 +253,4 @@
 2023-04-27T13:25:13+0530 - reformat table headers and tooltip text
 2023-04-27T13:41:18+0530 - fix edge case in null assessment feature value
 2023-04-27T14:03:45+0530 - standardize response json error bodies
+2023-04-27T14:29:00+0530 - tweak margin and flexbox alignment on cards
