@@ -259,3 +259,4 @@
 2023-04-30T17:07:16+0530 - fix patient dob formatting issue
 2023-04-30T18:06:04+0530 - standardize response json error bodies
 2023-04-30T19:03:52+0530 - improve query efficiency for patient list search
+2023-04-30T19:35:35+0530 - add docstrings to inference functions
