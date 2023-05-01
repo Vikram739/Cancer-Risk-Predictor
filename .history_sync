@@ -261,3 +261,4 @@
 2023-04-30T19:03:52+0530 - improve query efficiency for patient list search
 2023-04-30T19:35:35+0530 - add docstrings to inference functions
 2023-04-30T20:32:58+0530 - fine-tune button color contrast in dark mode
+2023-05-01T14:57:51+0530 - optimize component re-rendering on filter change
