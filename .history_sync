@@ -265,3 +265,4 @@
 2023-05-02T14:17:24+0530 - implement ml service client with timeouts and retries
 2023-05-02T16:01:37+0530 - reformat table headers and tooltip text
 2023-05-02T16:31:06+0530 - update logging format for inference calls
+2023-05-02T16:49:12+0530 - add boundary checks for probability scores
