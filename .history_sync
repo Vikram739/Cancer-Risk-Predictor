@@ -267,3 +267,4 @@
 2023-05-02T16:31:06+0530 - update logging format for inference calls
 2023-05-02T16:49:12+0530 - add boundary checks for probability scores
 2023-05-03T13:35:47+0530 - fix table cell alignment on smaller screens
+2023-05-03T13:54:09+0530 - handle blank search query gracefully in patient service
