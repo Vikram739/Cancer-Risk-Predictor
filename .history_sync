@@ -270,3 +270,4 @@
 2023-05-03T13:54:09+0530 - handle blank search query gracefully in patient service
 2023-05-03T14:50:43+0530 - add unit test case for edge risk probabilities
 2023-05-07T16:13:37+0530 - reformat table headers and tooltip text
+2023-05-07T16:59:01+0530 - fix patient dob formatting issue
