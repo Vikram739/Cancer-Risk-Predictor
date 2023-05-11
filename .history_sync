@@ -277,3 +277,4 @@
 2023-05-08T15:49:19+0530 - tweak margin and flexbox alignment on cards
 2023-05-08T16:35:08+0530 - add boundary checks for probability scores
 2023-05-11T15:16:26+0530 - add rest controllers with role based authorization
+2023-05-11T16:40:40+0530 - add unit test case for edge risk probabilities
