@@ -281,3 +281,4 @@
 2023-05-12T13:17:49+0530 - fix edge case in null assessment feature value
 2023-05-12T14:12:07+0530 - update test fixtures with realistic data
 2023-05-13T15:32:33+0530 - refactor mapper logic for optional audit fields
+2023-05-13T16:28:21+0530 - fix edge case in null assessment feature value
