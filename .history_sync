@@ -286,3 +286,4 @@
 2023-05-13T17:30:29+0530 - fix patient dob formatting issue
 2023-05-13T18:22:13+0530 - tweak margin and flexbox alignment on cards
 2023-05-13T18:51:52+0530 - reformat table headers and tooltip text
+2023-05-13T19:20:36+0530 - improve query efficiency for patient list search
