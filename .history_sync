@@ -284,3 +284,4 @@
 2023-05-13T16:28:21+0530 - fix edge case in null assessment feature value
 2023-05-13T17:07:56+0530 - refactor mapper logic for optional audit fields
 2023-05-13T17:30:29+0530 - fix patient dob formatting issue
+2023-05-13T18:22:13+0530 - tweak margin and flexbox alignment on cards
