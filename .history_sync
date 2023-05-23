@@ -295,3 +295,4 @@
 2023-05-23T14:56:00+0530 - add docstrings to inference functions
 2023-05-23T15:28:05+0530 - refactor mapper logic for optional audit fields
 2023-05-23T15:43:14+0530 - add docstrings to inference functions
+2023-05-23T15:59:53+0530 - refactor error handling in request payload
