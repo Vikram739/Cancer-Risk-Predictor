@@ -289,3 +289,4 @@
 2023-05-13T19:20:36+0530 - improve query efficiency for patient list search
 2023-05-13T20:16:09+0530 - add docstrings to inference functions
 2023-05-14T12:49:45+0530 - add boundary checks for probability scores
+2023-05-23T12:21:46+0530 - implement global exception handler and validation errors
