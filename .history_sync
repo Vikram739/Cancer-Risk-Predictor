@@ -297,3 +297,4 @@
 2023-05-23T15:43:14+0530 - add docstrings to inference functions
 2023-05-23T15:59:53+0530 - refactor error handling in request payload
 2023-05-23T17:00:06+0530 - bump connection timeout on rest client
+2023-05-23T17:26:53+0530 - tweak margin and flexbox alignment on cards
