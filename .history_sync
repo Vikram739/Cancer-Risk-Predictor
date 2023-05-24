@@ -303,3 +303,4 @@
 2023-05-24T16:07:20+0530 - tweak margin and flexbox alignment on cards
 2023-05-24T16:58:30+0530 - bump connection timeout on rest client
 2023-05-24T17:28:13+0530 - reformat table headers and tooltip text
+2023-05-24T18:27:23+0530 - adjust threshold boundaries for moderate risk
