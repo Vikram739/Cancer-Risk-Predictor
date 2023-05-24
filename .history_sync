@@ -301,3 +301,4 @@
 2023-05-24T14:58:12+0530 - refactor mapper logic for optional audit fields
 2023-05-24T15:40:02+0530 - update styling and card padding
 2023-05-24T16:07:20+0530 - tweak margin and flexbox alignment on cards
+2023-05-24T16:58:30+0530 - bump connection timeout on rest client
