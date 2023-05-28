@@ -311,3 +311,4 @@
 2023-05-27T17:48:33+0530 - optimize component re-rendering on filter change
 2023-05-27T18:35:00+0530 - update logging format for inference calls
 2023-05-28T15:27:42+0530 - update styling and card padding
+2023-05-28T16:27:31+0530 - fix patient dob formatting issue
