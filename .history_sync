@@ -313,3 +313,4 @@
 2023-05-28T15:27:42+0530 - update styling and card padding
 2023-05-28T16:27:31+0530 - fix patient dob formatting issue
 2023-05-28T17:23:17+0530 - update test fixtures with realistic data
+2023-05-29T15:44:05+0530 - tweak margin and flexbox alignment on cards
