@@ -319,3 +319,4 @@
 2023-05-29T17:42:37+0530 - fix edge case in null assessment feature value
 2023-05-30T17:01:53+0530 - refactor mapper logic for optional audit fields
 2023-05-30T18:01:33+0530 - add docstrings to inference functions
+2023-05-30T18:45:52+0530 - fix table cell alignment on smaller screens
