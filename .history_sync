@@ -324,3 +324,4 @@
 2023-06-03T13:34:24+0530 - initialize vite react typescript application
 2023-06-04T14:28:38+0530 - standardize response json error bodies
 2023-06-04T14:55:49+0530 - fine-tune button color contrast in dark mode
+2023-06-04T15:31:00+0530 - add unit test case for edge risk probabilities
