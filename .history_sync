@@ -326,3 +326,4 @@
 2023-06-04T14:55:49+0530 - fine-tune button color contrast in dark mode
 2023-06-04T15:31:00+0530 - add unit test case for edge risk probabilities
 2023-06-04T16:01:46+0530 - handle blank search query gracefully in patient service
+2023-06-04T16:26:10+0530 - adjust threshold boundaries for moderate risk
