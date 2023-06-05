@@ -328,3 +328,4 @@
 2023-06-04T16:01:46+0530 - handle blank search query gracefully in patient service
 2023-06-04T16:26:10+0530 - adjust threshold boundaries for moderate risk
 2023-06-05T16:16:19+0530 - fix patient dob formatting issue
+2023-06-05T16:33:30+0530 - bump connection timeout on rest client
