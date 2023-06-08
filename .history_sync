@@ -336,3 +336,4 @@
 2023-06-08T15:47:34+0530 - update test fixtures with realistic data
 2023-06-08T16:27:03+0530 - handle blank search query gracefully in patient service
 2023-06-08T16:56:10+0530 - clean up unused imports and types
+2023-06-08T17:39:49+0530 - fix table cell alignment on smaller screens
