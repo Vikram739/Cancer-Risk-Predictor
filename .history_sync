@@ -339,3 +339,4 @@
 2023-06-08T17:39:49+0530 - fix table cell alignment on smaller screens
 2023-06-08T18:31:18+0530 - add docstrings to inference functions
 2023-06-08T19:28:25+0530 - refactor mapper logic for optional audit fields
+2023-06-09T16:23:00+0530 - fix table cell alignment on smaller screens
