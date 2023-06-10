@@ -345,3 +345,4 @@
 2023-06-09T18:07:13+0530 - tweak margin and flexbox alignment on cards
 2023-06-09T18:59:21+0530 - fine-tune button color contrast in dark mode
 2023-06-09T19:15:38+0530 - standardize response json error bodies
+2023-06-10T16:23:39+0530 - bump connection timeout on rest client
