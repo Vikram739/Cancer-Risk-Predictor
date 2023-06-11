@@ -351,3 +351,4 @@
 2023-06-10T17:30:53+0530 - add unit test case for edge risk probabilities
 2023-06-11T13:06:20+0530 - setup axios instance with jwt token interceptors
 2023-06-11T14:30:26+0530 - fix patient dob formatting issue
+2023-06-11T14:53:41+0530 - fix test assertion for pagination limit
