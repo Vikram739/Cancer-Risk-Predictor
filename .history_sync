@@ -349,3 +349,4 @@
 2023-06-10T16:47:19+0530 - standardize response json error bodies
 2023-06-10T17:12:39+0530 - refactor error handling in request payload
 2023-06-10T17:30:53+0530 - add unit test case for edge risk probabilities
+2023-06-11T13:06:20+0530 - setup axios instance with jwt token interceptors
