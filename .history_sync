@@ -352,3 +352,4 @@
 2023-06-11T13:06:20+0530 - setup axios instance with jwt token interceptors
 2023-06-11T14:30:26+0530 - fix patient dob formatting issue
 2023-06-11T14:53:41+0530 - fix test assertion for pagination limit
+2023-06-11T15:43:00+0530 - fix table cell alignment on smaller screens
