@@ -355,3 +355,4 @@
 2023-06-11T15:43:00+0530 - fix table cell alignment on smaller screens
 2023-06-15T12:11:14+0530 - implement authentication views with react hook form
 2023-06-15T13:49:19+0530 - fine-tune button color contrast in dark mode
+2023-06-15T14:43:37+0530 - fix test assertion for pagination limit
