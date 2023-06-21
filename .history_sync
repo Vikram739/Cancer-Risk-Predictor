@@ -365,3 +365,4 @@
 2023-06-19T17:35:26+0530 - adjust threshold boundaries for moderate risk
 2023-06-19T18:06:48+0530 - standardize response json error bodies
 2023-06-21T14:44:10+0530 - fix table cell alignment on smaller screens
+2023-06-21T15:03:31+0530 - bump connection timeout on rest client
