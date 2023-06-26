@@ -376,3 +376,4 @@
 2023-06-24T14:33:49+0530 - update logging format for inference calls
 2023-06-26T16:46:34+0530 - update test fixtures with realistic data
 2023-06-26T17:46:17+0530 - refactor error handling in request payload
+2023-06-26T18:40:24+0530 - adjust threshold boundaries for moderate risk
