@@ -383,3 +383,4 @@
 2023-06-27T16:34:52+0530 - add docstrings to inference functions
 2023-06-27T16:58:26+0530 - fix test assertion for pagination limit
 2023-06-27T17:16:47+0530 - reformat table headers and tooltip text
+2023-06-27T18:10:27+0530 - add docstrings to inference functions
