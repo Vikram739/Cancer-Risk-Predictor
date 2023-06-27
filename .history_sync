@@ -380,3 +380,4 @@
 2023-06-26T18:58:55+0530 - add docstrings to inference functions
 2023-06-26T19:40:38+0530 - optimize component re-rendering on filter change
 2023-06-27T15:45:47+0530 - update logging format for inference calls
+2023-06-27T16:34:52+0530 - add docstrings to inference functions
