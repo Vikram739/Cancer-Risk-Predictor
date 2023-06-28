@@ -386,3 +386,4 @@
 2023-06-27T18:10:27+0530 - add docstrings to inference functions
 2023-06-27T19:00:17+0530 - add unit test case for edge risk probabilities
 2023-06-28T14:19:58+0530 - update logging format for inference calls
+2023-06-28T14:53:44+0530 - fix test assertion for pagination limit
