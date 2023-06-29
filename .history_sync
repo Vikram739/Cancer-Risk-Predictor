@@ -390,3 +390,4 @@
 2023-06-28T15:15:57+0530 - fix test assertion for pagination limit
 2023-06-28T16:12:09+0530 - fix edge case in null assessment feature value
 2023-06-28T16:27:33+0530 - add boundary checks for probability scores
+2023-06-29T13:10:15+0530 - build 30 feature input assessment form with validation
