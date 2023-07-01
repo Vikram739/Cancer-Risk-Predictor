@@ -394,3 +394,4 @@
 2023-06-29T14:47:23+0530 - handle blank search query gracefully in patient service
 2023-07-01T13:10:41+0530 - fix table cell alignment on smaller screens
 2023-07-01T14:03:00+0530 - fix patient dob formatting issue
+2023-07-01T14:53:09+0530 - fix edge case in null assessment feature value
