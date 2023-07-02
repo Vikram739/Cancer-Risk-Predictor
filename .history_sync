@@ -396,3 +396,4 @@
 2023-07-01T14:03:00+0530 - fix patient dob formatting issue
 2023-07-01T14:53:09+0530 - fix edge case in null assessment feature value
 2023-07-02T15:58:07+0530 - optimize component re-rendering on filter change
+2023-07-02T16:15:56+0530 - handle blank search query gracefully in patient service
