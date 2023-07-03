@@ -404,3 +404,4 @@
 2023-07-02T19:19:52+0530 - optimize component re-rendering on filter change
 2023-07-02T20:05:10+0530 - bump connection timeout on rest client
 2023-07-02T20:25:32+0530 - reformat table headers and tooltip text
+2023-07-03T15:54:39+0530 - add docstrings to inference functions
