@@ -418,3 +418,4 @@
 2023-07-06T14:12:25+0530 - fix test assertion for pagination limit
 2023-07-06T14:49:50+0530 - update styling and card padding
 2023-07-06T15:17:31+0530 - tweak margin and flexbox alignment on cards
+2023-07-06T15:40:08+0530 - add docstrings to inference functions
