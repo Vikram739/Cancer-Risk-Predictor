@@ -435,3 +435,4 @@
 2023-07-11T14:08:06+0530 - fix test assertion for pagination limit
 2023-07-12T12:10:10+0530 - add vitest component and utility unit tests
 2023-07-12T12:52:39+0530 - optimize component re-rendering on filter change
+2023-07-12T13:53:25+0530 - optimize component re-rendering on filter change
