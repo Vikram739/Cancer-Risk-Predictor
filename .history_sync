@@ -446,3 +446,4 @@
 2023-07-13T16:59:23+0530 - update logging format for inference calls
 2023-07-13T17:44:49+0530 - update test fixtures with realistic data
 2023-07-13T18:25:11+0530 - fine-tune button color contrast in dark mode
+2023-07-16T13:32:50+0530 - reformat table headers and tooltip text
