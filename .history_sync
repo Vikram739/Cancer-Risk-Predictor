@@ -449,3 +449,4 @@
 2023-07-16T13:32:50+0530 - reformat table headers and tooltip text
 2023-07-17T16:51:14+0530 - standardize response json error bodies
 2023-07-17T17:29:27+0530 - fix patient dob formatting issue
+2023-07-17T18:07:57+0530 - improve query efficiency for patient list search
