@@ -448,3 +448,4 @@
 2023-07-13T18:25:11+0530 - fine-tune button color contrast in dark mode
 2023-07-16T13:32:50+0530 - reformat table headers and tooltip text
 2023-07-17T16:51:14+0530 - standardize response json error bodies
+2023-07-17T17:29:27+0530 - fix patient dob formatting issue
