@@ -451,3 +451,4 @@
 2023-07-17T17:29:27+0530 - fix patient dob formatting issue
 2023-07-17T18:07:57+0530 - improve query efficiency for patient list search
 2023-07-17T18:47:42+0530 - fix test assertion for pagination limit
+2023-07-17T19:34:01+0530 - refactor mapper logic for optional audit fields
