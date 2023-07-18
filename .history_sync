@@ -456,3 +456,4 @@
 2023-07-18T13:20:26+0530 - add dashboard and assessment result screenshots
 2023-07-18T14:24:50+0530 - handle blank search query gracefully in patient service
 2023-07-18T15:17:25+0530 - add unit test case for edge risk probabilities
+2023-07-18T15:51:57+0530 - refactor error handling in request payload
