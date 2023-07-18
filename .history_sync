@@ -454,3 +454,4 @@
 2023-07-17T19:34:01+0530 - refactor mapper logic for optional audit fields
 2023-07-17T20:22:50+0530 - clean up unused imports and types
 2023-07-18T13:20:26+0530 - add dashboard and assessment result screenshots
+2023-07-18T14:24:50+0530 - handle blank search query gracefully in patient service
