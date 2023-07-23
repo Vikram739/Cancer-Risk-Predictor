@@ -470,3 +470,4 @@
 2023-07-23T16:05:10+0530 - complete detailed documentation with real metrics table
 2023-07-23T17:29:32+0530 - fix test assertion for pagination limit
 2023-07-23T17:53:44+0530 - handle blank search query gracefully in patient service
+2023-07-23T18:54:13+0530 - handle blank search query gracefully in patient service
