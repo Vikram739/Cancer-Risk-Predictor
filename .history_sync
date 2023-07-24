@@ -478,3 +478,4 @@
 2023-07-24T17:18:24+0530 - improve query efficiency for patient list search
 2023-07-24T17:50:55+0530 - reformat table headers and tooltip text
 2023-07-24T18:17:29+0530 - bump connection timeout on rest client
+2023-07-24T19:11:54+0530 - refactor error handling in request payload
