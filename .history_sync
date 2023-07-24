@@ -474,3 +474,4 @@
 2023-07-23T19:13:34+0530 - reformat table headers and tooltip text
 2023-07-23T19:58:53+0530 - reformat table headers and tooltip text
 2023-07-23T20:42:27+0530 - update styling and card padding
+2023-07-24T16:28:05+0530 - clean up unused imports and types
