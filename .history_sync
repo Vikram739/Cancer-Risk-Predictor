@@ -476,3 +476,4 @@
 2023-07-23T20:42:27+0530 - update styling and card padding
 2023-07-24T16:28:05+0530 - clean up unused imports and types
 2023-07-24T17:18:24+0530 - improve query efficiency for patient list search
+2023-07-24T17:50:55+0530 - reformat table headers and tooltip text
