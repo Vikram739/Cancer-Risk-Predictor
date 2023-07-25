@@ -1,0 +1,151 @@
+{
+  "model_version": "1.0.0",
+  "best_model": "logistic_regression",
+  "selection_metric": "recall",
+  "trained_at": "2026-10-21T20:28:10+00:00",
+  "dataset": {
+    "name": "Breast Cancer Wisconsin (Diagnostic)",
+    "samples": 569,
+    "features": 30,
+    "malignant": 212,
+    "benign": 357,
+    "train_size": 455,
+    "test_size": 114
+  },
+  "selected_features": [
+    "mean_radius",
+    "mean_texture",
+    "mean_perimeter",
+    "mean_area",
+    "mean_compactness",
+    "mean_concavity",
+    "mean_concave_points",
+    "radius_error",
+    "perimeter_error",
+    "area_error",
+    "concave_points_error",
+    "worst_radius",
+    "worst_texture",
+    "worst_perimeter",
+    "worst_area",
+    "worst_smoothness",
+    "worst_compactness",
+    "worst_concavity",
+    "worst_concave_points",
+    "worst_symmetry"
+  ],
+  "models": {
+    "logistic_regression": {
+      "display_name": "Logistic Regression",
+      "best_params": {
+        "C": 0.1,
+        "penalty": "l1"
+      },
+      "cv": {
+        "recall": 0.9647,
+        "precision": 0.9543,
+        "f1": 0.9591,
+        "accuracy": 0.9692,
+        "roc_auc": 0.9918
+      },
+      "test": {
+        "accuracy": 0.9737,
+        "precision": 0.9756,
+        "recall": 0.9524,
+        "f1": 0.9639,
+        "roc_auc": 0.9983,
+        "confusion_matrix": {
+          "tn": 71,
+          "fp": 1,
+          "fn": 2,
+          "tp": 40
+        }
+      }
+    },
+    "random_forest": {
+      "display_name": "Random Forest",
+      "best_params": {
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "n_estimators": 200
+      },
+      "cv": {
+        "recall": 0.9529,
+        "precision": 0.9485,
+        "f1": 0.9503,
+        "accuracy": 0.9626,
+        "roc_auc": 0.989
+      },
+      "test": {
+        "accuracy": 0.9737,
+        "precision": 1.0,
+        "recall": 0.9286,
+        "f1": 0.963,
+        "roc_auc": 0.9949,
+        "confusion_matrix": {
+          "tn": 72,
+          "fp": 0,
+          "fn": 3,
+          "tp": 39
+        }
+      }
+    },
+    "svm": {
+      "display_name": "Support Vector Machine",
+      "best_params": {
+        "C": 0.5,
+        "gamma": "scale",
+        "kernel": "linear"
+      },
+      "cv": {
+        "recall": 0.9588,
+        "precision": 0.9648,
+        "f1": 0.9615,
+        "accuracy": 0.9714,
+        "roc_auc": 0.9941
+      },
+      "test": {
+        "accuracy": 0.9649,
+        "precision": 0.9524,
+        "recall": 0.9524,
+        "f1": 0.9524,
+        "roc_auc": 0.9947,
+        "confusion_matrix": {
+          "tn": 70,
+          "fp": 2,
+          "fn": 2,
+          "tp": 40
+        }
+      }
+    },
+    "xgboost": {
+      "display_name": "XGBoost",
+      "best_params": {
+        "learning_rate": 0.05,
+        "max_depth": 3,
+        "n_estimators": 200,
+        "subsample": 0.8
+      },
+      "cv": {
+        "recall": 0.9529,
+        "precision": 0.9537,
+        "f1": 0.9529,
+        "accuracy": 0.9648,
+        "roc_auc": 0.9932
+      },
+      "test": {
+        "accuracy": 0.9737,
+        "precision": 1.0,
+        "recall": 0.9286,
+        "f1": 0.963,
+        "roc_auc": 0.997,
+        "confusion_matrix": {
+          "tn": 72,
+          "fp": 0,
+          "fn": 3,
+          "tp": 39
+        }
+      }
+    }
+  }
+}
